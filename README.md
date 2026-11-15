@@ -14,10 +14,10 @@
 
 ## ⬇️ 다운로드
 
-| 플랫폼 | 파일 | 다운로드 |
-| --- | --- | --- |
-| 🪟 Windows | `Notium-Windows-x64-setup.exe` | [설치 파일](https://github.com/nonDeveloper0/Notium-releases/releases/latest/download/Notium-Windows-x64-setup.exe) |
-| 🤖 Android | `Notium-Android-arm64.apk` | [APK](https://github.com/nonDeveloper0/Notium-releases/releases/latest/download/Notium-Android-arm64.apk) |
+| 플랫폼 | 버전 | 파일 | 다운로드 |
+| --- | --- | --- | --- |
+| 🪟 Windows | v0.2.2 | `Notium-Windows-x64-setup.exe` | [설치 파일](https://github.com/nonDeveloper0/Notium-releases/releases/latest/download/Notium-Windows-x64-setup.exe) |
+| 🤖 Android | v0.2.2 | `Notium-Android-arm64.apk` | [APK](https://github.com/nonDeveloper0/Notium-releases/releases/latest/download/Notium-Android-arm64.apk) |
 | 🍎 iOS | 준비 중 | 현재 제공하지 않습니다. |
 
 버전별 파일은 [전체 릴리스](https://github.com/nonDeveloper0/Notium-releases/releases)에서 받을 수 있습니다.
